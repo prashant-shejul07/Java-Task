@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Java Assignments\TaskAssignments-master\.metadata\.plugins\org.eclipse.jdt.core
+616441719.index
+3453846082.index
+1423234040.index
+1865797976.index
+451419626.index
